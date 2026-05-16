@@ -1,0 +1,12 @@
+# SIGFA V2 - Git Ignore
+/vendor/
+/backups/
+/tmp/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.gemini/
+.antigravity/
+config/db.php.bak
